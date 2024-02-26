@@ -19,6 +19,7 @@
     "sourceType": "module"
   },
   "rules": {
-    "semi":"error"
+    "semi": "error",
+    "quotes": ["warn", "single"]
   }
 }
