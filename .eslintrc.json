@@ -7,7 +7,6 @@
   },
   "extends": [
     "next/core-web-vitals",
-    "plugin:@typescript-eslint/recommended",
     "plugin:tailwindcss/recommended"
   ],
   "plugins": [
@@ -20,6 +19,7 @@
   },
   "rules": {
     "semi": "error",
-    "quotes": ["warn", "single"]
+    "quotes": ["warn", "single"],
+    "indent": ["warn", 2]
   }
 }
