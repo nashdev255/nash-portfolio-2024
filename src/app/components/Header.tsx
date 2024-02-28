@@ -33,7 +33,7 @@ const Header = () => {
   };
 
   return (
-    <header className="fixed flex h-[10vh] w-full justify-center">
+    <header className="sticky flex h-[10vh] w-full justify-center">
       <nav className="flex min-w-[75vw] justify-end">
         <ul className='mx-8 flex items-center space-x-4 lg:space-x-6'>
           <li onClick={handleToggleTheme} className='rounded-md p-2 hover:bg-slate-600 hover:bg-opacity-[0.5]'>
