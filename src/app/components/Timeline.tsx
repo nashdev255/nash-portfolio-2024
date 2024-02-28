@@ -116,10 +116,11 @@ const Timeline = () => {
           <li>
             <span className='' />
             <div className='space-y-2'>
-              <p className=''>Study - 2024/02/02</p>
+              <p className=''>Study - 2024/01/29</p>
               <div className='min-h-24 rounded-lg bg-slate-600 bg-opacity-[0.3] shadow-lg'>
                 <p className='p-6 text-lg font-bold'>
-                  GTECのリスニングで満点スコアを獲得し、学年順位7位をとる。
+                  第23回日本情報オリンピック予選でBランクを獲得する。<br />
+                  これを機にAtCoderに注力しはじめる。
                 </p>
               </div>
             </div>
@@ -127,11 +128,10 @@ const Timeline = () => {
           <li>
             <span className='' />
             <div className='space-y-2'>
-              <p className=''>Study - 2024/02/29</p>
+              <p className=''>Study - 2024/02/02</p>
               <div className='min-h-24 rounded-lg bg-slate-600 bg-opacity-[0.3] shadow-lg'>
                 <p className='p-6 text-lg font-bold'>
-                  第23回日本情報オリンピック予選でBランクを獲得する。<br />
-                  これを機にAtCoderに注力しはじめる。
+                  GTECのリスニングで満点スコアを獲得し、学年順位7位をとる。
                 </p>
               </div>
             </div>
