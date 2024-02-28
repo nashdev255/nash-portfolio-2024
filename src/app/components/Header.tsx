@@ -4,15 +4,13 @@ import { useState, useEffect } from 'react';
 import { IconContext } from 'react-icons';
 import { MdLightMode, MdDarkMode } from 'react-icons/md';
 import { FaHamburger } from 'react-icons/fa';
-import { THEME_KEY, ThemeKey } from '@/app/utils/theme';
+import { THEME_KEY } from '@/app/utils/theme';
 
 const themeToggleStyles = {
-  color: '#dcdce6',
   className: 'size-6'
 };
 
 const hamburgerButtonStyles = {
-  color: '#dcdce6',
   className: 'size-6'
 };
 

@@ -4,7 +4,7 @@
 
 body[data-theme='light'] {
   --background-color: 220, 220, 230;
-  --text-color: 30, 30, 30;
+  --text-color: 50, 50, 80;
 }
 
 body[data-theme='dark'] {
