@@ -69,6 +69,41 @@ const Timeline = () => {
           <li>
             <span className='' />
             <div className='space-y-2'>
+              <p className=''>Study - 2022/11/22</p>
+              <div className='min-h-24 rounded-lg bg-slate-600 bg-opacity-[0.3] shadow-lg'>
+                <p className='p-6 text-lg font-bold'>
+                  実用英語技能検定2級合格。
+                </p>
+              </div>
+            </div>
+          </li>
+          <li>
+            <span className='' />
+            <div className='space-y-2'>
+              <p className=''>Technique - 2022/12/24</p>
+              <div className='min-h-24 rounded-lg bg-slate-600 bg-opacity-[0.3] shadow-lg'>
+                <p className='p-6 text-lg font-bold'>
+                  Weather Typingにて、Tomisuke配列で500kpmを達成。<br />
+                  (スコアは20ワード503.3kpm97.2%32552pt)
+                </p>
+              </div>
+            </div>
+          </li>
+          <li>
+            <span className='' />
+            <div className='space-y-2'>
+              <p className=''>Develop - 2022/12/26</p>
+              <div className='min-h-24 rounded-lg bg-slate-600 bg-opacity-[0.3] shadow-lg'>
+                <p className='p-6 text-lg font-bold'>
+                  春から制作していたnash-portfolio-2022が完成する。<br />
+                  技術スタックはHTML&CSSのみ(現在はNext.jsに移行済み)。
+                </p>
+              </div>
+            </div>
+          </li>
+          <li>
+            <span className='' />
+            <div className='space-y-2'>
               <p className=''>International Exchange - 2023/04/xx</p>
               <div className='min-h-24 rounded-lg bg-slate-600 bg-opacity-[0.3] shadow-lg'>
                 <p className='p-6 text-lg font-bold'>
@@ -84,7 +119,7 @@ const Timeline = () => {
               <p className=''>Study - 2023/04/08</p>
               <div className='min-h-24 rounded-lg bg-slate-600 bg-opacity-[0.3] shadow-lg'>
                 <p className='p-6 text-lg font-bold'>
-                  技術英検2級取得。<br />
+                  技術英検2級合格。
                 </p>
               </div>
             </div>
@@ -132,6 +167,28 @@ const Timeline = () => {
               <div className='min-h-24 rounded-lg bg-slate-600 bg-opacity-[0.3] shadow-lg'>
                 <p className='p-6 text-lg font-bold'>
                   GTECのリスニングで満点スコアを獲得し、学年順位7位をとる。
+                </p>
+              </div>
+            </div>
+          </li>
+          <li>
+            <span className='' />
+            <div className='space-y-2'>
+              <p className=''>Assumption - 2024/02/09</p>
+              <div className='min-h-24 rounded-lg bg-slate-600 bg-opacity-[0.3] shadow-lg'>
+                <p className='p-6 text-lg font-bold'>
+                  プロコンプロジェクト部長に就任。
+                </p>
+              </div>
+            </div>
+          </li>
+          <li>
+            <span className='' />
+            <div className='space-y-2'>
+              <p className=''>Internship - 2024/02/28</p>
+              <div className='min-h-24 rounded-lg bg-slate-600 bg-opacity-[0.3] shadow-lg'>
+                <p className='p-6 text-lg font-bold'>
+                  Prossellでインターンを開始。
                 </p>
               </div>
             </div>
