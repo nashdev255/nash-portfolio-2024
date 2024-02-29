@@ -3,9 +3,9 @@ import Status from '@/app/components/Status';
 
 const Skills = () => {
   return (
-    <div className='flex justify-center'>
+    <div className='my-12 flex justify-center'>
       <div className='max-w-[75vw]'>
-        <div className='my-6 flex h-[10vh] items-center justify-center'>
+        <div className='my-6 flex h-[12vh] items-center justify-center'>
           <h1 className='text-4xl font-bold'>Skills</h1>
         </div>
         <TechnologyStack />
