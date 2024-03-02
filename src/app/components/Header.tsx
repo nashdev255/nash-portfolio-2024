@@ -15,7 +15,7 @@ const hamburgerButtonStyles = {
 };
 
 const Header = () => {
-  const [isLightTheme, setIsLightTheme] = useState(document.body.dataset.theme === 'light');
+  const [isLightTheme, setIsLightTheme] = useState(typeof document !== 'undefined' ? document.body.dataset.theme === 'light': false);
 
   const initTheme = () => {
     const colorTheme = globalThis.matchMedia('(prefers-color-scheme: dark)')
