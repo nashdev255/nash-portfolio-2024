@@ -16,3 +16,11 @@ body {
   background-color: rgb(var(--background-color));
   color: rgb(var(--text-color));
 }
+
+div .bg-theme {
+  background-color: rgb(var(--text-color));
+}
+
+div .border-theme {
+  border: 2px solid rgb(var(--text-color));
+}
