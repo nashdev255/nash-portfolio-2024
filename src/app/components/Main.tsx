@@ -1,6 +1,7 @@
 import Headline from '@/app/components/Headline';
 import Timeline from '@/app/components/Timeline';
 import Skills from '@/app/components/Skills';
+import Works from '@/app/components/Works';
 
 const Main = () => {
   return (
@@ -8,6 +9,7 @@ const Main = () => {
       <Headline />
       <Timeline />
       <Skills />
+      <Works />
     </main>
   );
 };
