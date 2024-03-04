@@ -1,6 +1,10 @@
 const Works = () => {
   return (
-    <div></div>
+    <div className='my-12 flex justify-center'>
+      <div className='max-w-[80vw] md:max-w-[75vw]'>
+
+      </div>
+    </div>
   );
 };
 
