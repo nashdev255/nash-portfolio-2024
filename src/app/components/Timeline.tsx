@@ -1,7 +1,7 @@
 const Timeline = () => {
   return (
     <div className='flex justify-center py-24'>
-      <div className='max-w-[75vw]'>
+      <div className='max-w-[85vw] md:max-w-[75vw]'>
         <div className='my-6 flex h-[10vh] items-center justify-center'>
           <h1 className='text-4xl font-bold'>Timeline</h1>
         </div>
