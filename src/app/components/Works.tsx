@@ -15,6 +15,9 @@ const Works = () => {
             <h2 className='text-theme-dark absolute bottom-4 left-4 text-2xl font-bold md:bottom-6 md:left-6 md:text-3xl'>イトキヨクエスト</h2>
           </li>
         </ul>
+        <div className='my-6 flex h-[6vh] items-center justify-center'>
+          <h1 className='text-xl font-bold duration-150 hover:text-2xl'>View All Items →</h1>
+        </div>
       </div>
     </div>
   );
