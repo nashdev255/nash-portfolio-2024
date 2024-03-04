@@ -7,11 +7,11 @@ const Works = () => {
         </div>
         <ul className='grid w-full grid-cols-1 gap-24 lg:grid-cols-2 lg:gap-32'>
           <li className='relative flex items-center justify-center shadow-xl duration-75 hover:scale-105'>
-            <div className='h-[45vh] w-[65vh] rounded-lg bg-slate-600'></div>
+            <div className='h-[30vh] w-[70vw] rounded-lg bg-slate-600 md:h-[45vh]'></div>
             <h2 className='text-theme-dark absolute bottom-6 left-6 text-3xl font-bold'>Study Sync Hub</h2>
           </li>
           <li className='relative flex items-center justify-center shadow-xl duration-75 hover:scale-105'>
-            <div className='h-[45vh] w-[65vh] rounded-lg bg-slate-600'></div>
+            <div className='h-[30vh] w-[70vw] rounded-lg bg-slate-600 md:h-[45vh]'></div>
             <h2 className='text-theme-dark absolute bottom-6 left-6 text-3xl font-bold'>イトキヨクエスト</h2>
           </li>
         </ul>
