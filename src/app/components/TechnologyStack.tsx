@@ -7,7 +7,7 @@ const TechnologyStack = () => {
   return (
     <div className='mb-36'>
       <h2 className='mb-12 text-2xl font-bold'>Technology Stack</h2>
-      <ul className='grid grid-cols-2 gap-6 md:grid-cols-3'>
+      <ul className='grid grid-cols-2 justify-center gap-6 md:grid-cols-3'>
         <li className='mx-auto flex size-40 items-center justify-center lg:size-72'>
           <Image src='React-icon.svg' alt='logo of React' height={128} width={128} />
         </li>
