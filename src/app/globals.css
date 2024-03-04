@@ -24,3 +24,7 @@ div .bg-theme {
 div .border-theme {
   border: 2px solid rgb(var(--text-color));
 }
+
+.text-theme-dark {
+  color: rgb(220, 220, 230)
+}
