@@ -63,12 +63,12 @@ const Status = () => {
         </li>
         <li className='flex flex-col space-y-4'>
           <div className='flex justify-center'>
-            <LevelCircle level={10} textStyle='' backgroundStyle='' />
+            <LevelCircle level={40} textStyle='' backgroundStyle='' />
           </div>
           <div className='flex flex-col items-center space-y-4'>
             <h3 className='text-lg font-bold'>政治に対する関心</h3>
             <p>
-              歴史的な政治について面白いとは思うものの、現代社会の政治に対する関心は薄い。
+              歴史的な政治に加え、とある有名な市長がインスパイアを受け現代の政治にも興味を持っている。
             </p>
           </div>
         </li>
