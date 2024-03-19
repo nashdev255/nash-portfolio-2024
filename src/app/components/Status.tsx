@@ -68,7 +68,7 @@ const Status = () => {
           <div className='flex flex-col items-center space-y-4'>
             <h3 className='text-lg font-bold'>政治に対する関心</h3>
             <p>
-              歴史的な政治に加え、とある有名な市長がインスパイアを受け現代の政治にも興味を持っている。
+              歴史的な政治に加え、とある有名な政治家からインスパイアを受け現代の政治にも興味を持っている。
             </p>
           </div>
         </li>
